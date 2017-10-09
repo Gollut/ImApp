@@ -1,2 +1,4 @@
 experimental/
 functions/s3_credentials.php
+composer.lock
+composer.json
